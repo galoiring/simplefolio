@@ -34,7 +34,7 @@
 
 ## Status
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3a029bfd-575c-41e5-8249-c864d482c2e5/deploy-status)](https://app.netlify.com/sites/the-simplefolio/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3a790570-4846-45c8-95f0-35ee37a508a4/deploy-status)](https://app.netlify.com/sites/gal-oiring/deploys)
 
 ## License 📄
 

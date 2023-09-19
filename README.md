@@ -20,6 +20,11 @@
 
 ---
 
+##Link
+https://gal-oiring.netlify.app
+
+---
+
 ## Technologies used 🛠️
 
 - [Parcel](https://parceljs.org/) - Bundler
